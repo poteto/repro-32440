@@ -1,4 +1,6 @@
-import { Thing } from "@/app/(tabs)";
-export function Circular() {
-  return Thing;
+import { useMyHook } from "./SomeFile";
+
+export function externalFunction() {
+  const data = useMyHook();
+  return data;
 }
