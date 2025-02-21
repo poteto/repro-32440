@@ -5909,6 +5909,11 @@ rc@~1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-compiler-runtime@19.0.0-beta-21e868a-20250216:
+  version "19.0.0-beta-21e868a-20250216"
+  resolved "https://registry.yarnpkg.com/react-compiler-runtime/-/react-compiler-runtime-19.0.0-beta-21e868a-20250216.tgz#b1869f304b13c8f5ea971451c49c32f373ea6d8f"
+  integrity sha512-iuvC3CeBVNHGdNbyD64+fJG87P0+FT+h0DJrhF43RUqTNklLxnEJC5+B9bWQP65RtLVP6uZkIbbhoOnw5/SXSA==
+
 react-devtools-core@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-5.3.2.tgz#d5df92f8ef2a587986d094ef2c47d84cf4ae46ec"
